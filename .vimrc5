@@ -419,7 +419,3 @@ vnoremap <Leader><tab> <c-o>==
 
 " auto-indent closing curly brace
 inoremap {<CR> {<CR>}<ESC>O
-
-
-
-

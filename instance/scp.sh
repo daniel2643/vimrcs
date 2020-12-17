@@ -14,12 +14,14 @@
   #scp -r file host
 #done
 
-scp -r ~/.vimrc ec2-user@18.163.103.66:~/
-scp -r ~/.bashrc ec2-user@18.163.103.66:~/
-scp -r ~/.bash_profile ec2-user@18.163.103.66:~/
-scp -r ~/.gitconfig ec2-user@18.163.103.66:~/
+scp -r ~/.vimrc ec2-user@52.78.109.178:~/
+scp -r ~/.bashrc ec2-user@52.78.109.178:~/
+scp -r ~/.bash_profile ec2-user@52.78.109.178:~/
+scp -r ~/.gitconfig ec2-user@52.78.109.178:~/
+scp -r ~/.vim/coc-settings.json ec2-user@52.78.109.178:~/
 
-scp -r install.sh ec2-user@18.163.103.66:~/
-scp -r ssserver.service ec2-user@18.163.103.66:~/
-scp -r config.json ec2-user@18.163.103.66:~/
+scp -r install.sh ec2-user@52.78.109.178:~/
+scp -r ssserver.service ec2-user@52.78.109.178:~/
+scp -r config.json ec2-user@52.78.109.178:~/
+
 
